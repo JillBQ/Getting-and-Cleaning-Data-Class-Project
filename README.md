@@ -1,3 +1,5 @@
+#Getting & Cleaning Data Human Activity Smartphone Project
+
 Version 1.0 10/25/2014
 
 Jill Boyer-Quick
